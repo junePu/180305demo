@@ -1,0 +1,14 @@
+{
+    "name": "junepu/180305demo",
+    "description": "a test compser project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "蒲公英的种子",
+            "email": "1097848289@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
